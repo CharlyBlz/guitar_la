@@ -1,5 +1,13 @@
-# Vue 3 + Vite
+# guitar-la
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## About 
+ - Application that simulates an online guitar store..
+ - Implementation of Vue.JS + Vite and CSS
+## Evidences
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+| Description | Screenshot |
+| --- | --- |
+| First look of page | ![image](https://github.com/CharlyBlz/guitar_la/blob/86473cac26fad32841b47fb0889b35ff8e0cfba4/guitar-la_screenshot.png)|
+
+## Page Link:
+[guitar-la](https://guitar-la-pink.vercel.app/)
