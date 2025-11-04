@@ -25,7 +25,8 @@ This project was part of my learning journey into front-end development, helping
 - Deploying a modern front-end project using **Vercel**.  
 ## Preview
 ![image](https://github.com/CharlyBlz/guitar_la/blob/86473cac26fad32841b47fb0889b35ff8e0cfba4/guitar-la_screenshot.png)
-
+## Live Demo
+[guitar-la](https://guitar-la-pink.vercel.app/)
 ## Recommended IDE Setup
  - Clone the repository
 ```
@@ -40,6 +41,5 @@ cd guitar_la
 npm i
 npm run dev
 ```
-
-## Page Link:
-[guitar-la](https://guitar-la-pink.vercel.app/)
+## Contact
+- ceblzgtz@gmail.com
