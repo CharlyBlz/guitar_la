@@ -23,11 +23,8 @@ This project was part of my learning journey into front-end development, helping
 - Implementing **Vue directives** effectively for conditional rendering and dynamic lists.  
 - Persisting user data locally using **localStorage**.  
 - Deploying a modern front-end project using **Vercel**.  
-## Evidences
-
-| Description | Screenshot |
-| --- | --- |
-| First look of page | ![image](https://github.com/CharlyBlz/guitar_la/blob/86473cac26fad32841b47fb0889b35ff8e0cfba4/guitar-la_screenshot.png)|
+## Preview
+![image](https://github.com/CharlyBlz/guitar_la/blob/86473cac26fad32841b47fb0889b35ff8e0cfba4/guitar-la_screenshot.png)
 
 ## Recommended IDE Setup
  - Clone the repository
