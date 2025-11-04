@@ -1,8 +1,28 @@
-# guitar-la
+# Project Title (guitar-la)
+ - A simple and responsive web application that simulates an online guitar store built with **Vue.js 3** and deployed on **Vercel**.  
+This project was part of my learning journey into front-end development, helping me strengthen my understanding of **reactivity**, **component communication**, and **state management** in Vue.
 
-## About 
- - Application that simulates an online guitar store.
- - Implementation of Vue.JS + Vite and CSS
+## Technologies Used
+- Vue.js 3 (Composition API)
+- Vite
+- HTML5, CSS3, JavaScript (ES6+)
+- Vercel (deployment)
+- ## Features
+- Add, edit, and delete items dynamically
+- Reactive state management using `ref()`
+- Parent-child communication using `props`, `emits`, and **custom events**  
+- Responsive design for mobile and desktop
+- Local storage integration for persistent data 
+- Watchers (`watch()`) to track state changes
+- Use of **Vue directives** (`v-if`, `v-for`, `v-bind`)  
+- Event handling for user interactions
+- ## What I Learned
+- Managing state and reactivity using the **Composition API** (`ref`,`computed`, and `watch`).
+- Understanding how data flows between parent and child components.  
+- Handling events and building custom event emitters between components.  
+- Implementing **Vue directives** effectively for conditional rendering and dynamic lists.  
+- Persisting user data locally using **localStorage**.  
+- Deploying a modern front-end project using **Vercel**.  
 ## Evidences
 
 | Description | Screenshot |
